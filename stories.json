@@ -1,0 +1,339 @@
+[
+    {
+        "title": "El Día en la Playa",
+        "level": "A1",
+        "icon": "fa-umbrella-beach",
+        "content": "Había una vez un niño llamado Luis. Luis vivía cerca del mar y le encantaba ir a la playa. \nUn día, su mamá le dijo: 'Hoy vamos a la playa'. Luis estaba muy emocionado. Llevó su cubo y su pala para construir castillos de arena. \nEn la playa, Luis corrió hacia el agua. Las olas le mojaron los pies y él se rió. Después, construyó un castillo de arena con la ayuda de su papá. \nAl final del día, Luis estaba cansado pero feliz. '¡Quiero volver mañana!', dijo Luis."
+    },
+    {
+        "title": "Mi Mascota",
+        "level": "A1",
+        "icon": "fa-dog",
+        "content": "Me llamo Ana y tengo una mascota. Es un perro pequeño y blanco. Se llama Lolo. \nLolo es muy juguetón. Le gusta correr en el parque y perseguir pelotas. También le gusta dormir en mi cama. \nTodos los días, yo le doy comida a Lolo. Él come rápido y luego me mira con sus ojos grandes. \nLolo es mi mejor amigo. Siempre está feliz cuando llego a casa."
+    },
+    {
+        "title": "En el Mercado",
+        "level": "A1",
+        "icon": "fa-shopping-basket",
+        "content": "Hoy fui al mercado con mi abuela. El mercado está lleno de colores y olores. \nCompramos frutas: manzanas, plátanos y fresas. También compramos pan y queso. \nMi abuela habló con la señora que vende verduras. Yo miré los tomates rojos y grandes. \nAl final, llevamos todo a casa. '¡Gracias, abuela!', le dije. Ella sonrió y me dio un abrazo."
+    },
+    {
+        "title": "Mi Cumpleaños",
+        "level": "A1",
+        "icon": "fa-birthday-cake",
+        "content": "Ayer fue mi cumpleaños. Cumplí 8 años. Mis padres organizaron una fiesta en casa. \nMis amigos vinieron y jugamos muchos juegos. También comimos pizza y pastel de chocolate. \nMi regalo favorito fue un libro de cuentos. Me encanta leer antes de dormir. \nAl final de la fiesta, soplé las velas y pedí un deseo. Fue un día muy especial."
+    },
+    {
+        "title": "La Excursión al Zoo",
+        "level": "A2",
+        "icon": "fa-paw",
+        "content": "El sábado pasado, mi escuela organizó una excursión al zoológico. Todos estábamos muy emocionados. \nPrimero, vimos a los monos. Saltaban de rama en rama y comían plátanos. Después, fuimos a ver a los leones. El león estaba dormido bajo el sol. \nMi parte favorita fue la casa de los reptiles. Había serpientes de muchos colores y un cocodrilo enorme. \nAl final del día, compré un helado y un recuerdo: un peluche de un pingüino. ¡Fue un día increíble!"
+    },
+    {
+        "title": "El Partido de Fútbol",
+        "level": "A2",
+        "icon": "fa-futbol",
+        "content": "El domingo jugué un partido de fútbol con mis amigos en el parque. Hacía mucho sol y todos estábamos sudando. \nYo era el delantero. En el primer tiempo, marqué un gol. Todos mis compañeros me felicitaron. \nEn el segundo tiempo, el otro equipo marcó dos goles. Estábamos perdiendo, pero no nos rendimos. \nAl final, empatamos 2-2. Estábamos cansados, pero felices. '¡El próximo partido ganamos!', dijo mi amigo Carlos."
+    },
+    {
+        "title": "Cocinando con Mamá",
+        "level": "A2",
+        "icon": "fa-cookie",
+        "content": "Ayer ayudé a mi mamá a cocinar. Decidimos hacer galletas de chocolate para la merienda. \nPrimero, mezclamos harina, azúcar y mantequilla en un bol. Luego, añadimos huevos y chocolate en trocitos. \nMi mamá puso la masa en el horno. Mientras las galletas se cocinaban, lavamos los platos. \nCuando las galletas estuvieron listas, olían delicioso. Las probamos con un vaso de leche. ¡Estaban riquísimas!"
+    },
+    {
+        "title": "El Regalo Sorpresa",
+        "level": "A2",
+        "icon": "fa-gift",
+        "content": "Hoy es el cumpleaños de mi hermana Laura. Yo quería darle un regalo especial, pero no tenía dinero. \nAsí que decidí hacerle un regalo con mis manos. Con papel de colores, hice una tarjeta con un corazón. \nDentro de la tarjeta, escribí: 'Eres la mejor hermana del mundo. ¡Feliz cumpleaños!'. \nCuando Laura abrió mi regalo, se emocionó mucho y me dio un abrazo fuerte. '¡Me encanta!', dijo. Me sentí muy feliz."
+    },
+    {
+        "title": "El Misterio del Libro Perdido",
+        "level": "B1",
+        "icon": "fa-book",
+        "content": "El lunes, la profesora nos dijo que teníamos que leer un libro para la clase de literatura. El libro se llamaba 'El secreto del viejo roble'. \nFui a la biblioteca, pero no lo encontré. Pregunté a la bibliotecaria y me dijo que alguien lo había sacado el viernes. \nDecidí investigar. Hablé con mis compañeros y descubrí que María lo había tomado, pero lo había dejado en su mochila. \nAl día siguiente, María trajo el libro. Todos estábamos contentos. La profesora nos felicitó por trabajar en equipo."
+    },
+    {
+        "title": "Un Día en la Granja",
+        "level": "B1",
+        "icon": "fa-tractor",
+        "content": "El verano pasado, mis padres y yo fuimos a una granja en el campo. Era la primera vez que veía animales de cerca. \nAl llegar, el granjero nos enseñó las vacas, los cerdos y las gallinas. Incluso pudimos ordeñar una vaca. \nLo más emocionante fue montar a caballo. Al principio tenía miedo, pero el caballo era muy tranquilo. \nAl final del día, comimos huevos frescos y pan recién horneado. '¡Quiero volver pronto!', le dije a mis padres."
+    },
+    {
+        "title": "El Concierto Escolar",
+        "level": "B1",
+        "icon": "fa-guitar",
+        "content": "En mi escuela, cada año organizamos un concierto para recaudar fondos. Este año, decidí participar tocando la guitarra. \nPractiqué mucho en casa, pero estaba nervioso. El día del concierto, había muchas personas en el auditorio. \nCuando llegó mi turno, respiré hondo y empecé a tocar. Al principio, mis manos temblaban, pero luego me relajé. \nAl terminar, todos aplaudieron. Mis amigos me dijeron que lo había hecho muy bien. ¡Fue una experiencia inolvidable!"
+    },
+    {
+        "title": "La Carta del Abuelo",
+        "level": "B1",
+        "icon": "fa-envelope",
+        "content": "Hace unas semanas, recibí una carta de mi abuelo. Él vive en otro país y no lo veo desde hace dos años. \nEn la carta, me contaba sobre su nuevo jardín y cómo había plantado árboles frutales. También me decía que extrañaba nuestras conversaciones. \nDecidí escribirle una carta de vuelta. Le conté sobre mis clases, mis amigos y mis hobbies. También le envié un dibujo que hice para él. \nUna semana después, mi abuelo me llamó por teléfono. 'Gracias por tu carta, me hizo muy feliz', me dijo. Prometimos escribirnos más seguido."
+    },
+    {
+        "title": "El Viaje a Madrid",
+        "level": "B2",
+        "icon": "fa-landmark",
+        "content": "El año pasado, tuve la oportunidad de viajar a Madrid con mi familia. Fue mi primer viaje a la capital de España. \nVisitamos muchos lugares famosos, como el Palacio Real, la Plaza Mayor y el Parque del Retiro. También probamos tapas en un restaurante tradicional. \nLo que más me impresionó fue el Museo del Prado. Ver las pinturas de Velázquez y Goya en persona fue increíble. \nAl final del viaje, comprendí por qué Madrid es una de las ciudades más visitadas de Europa. ¡Espero volver algún día!"
+    },
+    {
+        "title": "El Proyecto de Ciencia",
+        "level": "B2",
+        "icon": "fa-flask",
+        "content": "Este semestre, en la clase de ciencias, teníamos que hacer un proyecto sobre energía renovable. Decidí investigar sobre la energía solar. \nPrimero, leí muchos artículos y vi documentales. Luego, construí un pequeño panel solar con materiales reciclados. \nEl día de la presentación, expliqué cómo funciona la energía solar y mostré mi proyecto. Mis compañeros hicieron muchas preguntas. \nAl final, la profesora me felicitó y me dio un 10. 'Has trabajado muy duro', me dijo. Me sentí muy orgulloso."
+    },
+    {
+        "title": "La Entrevista de Trabajo",
+        "level": "B2",
+        "icon": "fa-briefcase",
+        "content": "La semana pasada, tuve mi primera entrevista de trabajo. Era para un puesto de asistente en una librería. \nEstaba muy nervioso, así que practiqué posibles preguntas con mi hermano. También investigué sobre la librería y su historia. \nEl día de la entrevista, llegué 15 minutos antes. La gerente me hizo preguntas sobre mis experiencias y por qué quería trabajar allí. \nDos días después, recibí una llamada. '¡Felicidades, estás contratado!', me dijeron. ¡Fue un momento muy emocionante!"
+    },
+    {
+        "title": "El Voluntariado en el Refugio",
+        "level": "B2",
+        "icon": "fa-heart",
+        "content": "Desde hace seis meses, he estado haciendo voluntariado en un refugio de animales. Ayudo a alimentar a los perros y gatos, y a limpiar sus jaulas. \nAl principio, era difícil ver a algunos animales tristes o enfermos. Pero con el tiempo, aprendí a cuidarlos y a darles cariño. \nUna de las experiencias más gratificantes fue cuando un perro al que había cuidado, llamado Toby, fue adoptado por una familia amorosa. \nEste voluntariado me ha enseñado mucho sobre la responsabilidad y el amor por los animales. Recomiendo a todos probar esta experiencia."
+    },
+
+    {
+        "title": "¡Hola, soy Pablo!",
+        "level": "A1.1",
+        "icon": "fa-user",
+        "leerdoelen": [
+            "Jezelf voorstellen (naam, leeftijd, nationaliteit)",
+            "Begroeten en afscheid nemen",
+            "Eenvoudige zinnen over jezelf (ik hou van..., ik ben...)"
+        ],
+        "content": "¡Hola! Me llamo Pablo. \nTengo diez años. \nSoy de España, de una ciudad pequeña cerca de Madrid. \nMe gusta jugar al fútbol y leer libros de aventuras. \nTambién tengo un perro que se llama Max. \nMax es blanco y muy juguetón. \nEn el colegio, mi materia favorita es matemáticas. \nNo me gusta mucho el frío, pero sí el verano. \nLos fines de semana, voy al parque con mis amigos. \n¿Y tú? ¿Cómo te llamas? ¿Qué te gusta hacer?",
+        "content_en": "Hi! My name is Pablo. \nI am ten years old. \nI am from Spain, from a small town near Madrid. \nI like playing soccer and reading adventure books. \nI also have a dog named Max. \nMax is white and very playful. \nAt school, my favorite subject is math. \nI don’t like the cold, but I do like summer. \nOn weekends, I go to the park with my friends. \nAnd you? What’s your name? What do you like to do?"
+    },
+    {
+        "title": "La familia de Laura",
+        "level": "A1.1",
+        "icon": "fa-home",
+        "leerdoelen": [
+            "Familieleden benoemen",
+            "Uiterlijk en karakter beschrijven",
+            "Bezittelijke voornaamwoorden (mi, tu, su)"
+        ],
+        "content": "Hola, soy Laura. \nEsta es mi familia. \nMi papá se llama Carlos. \nÉl es alto y trabaja en una oficina. \nMi mamá se llama Ana. \nElla es cocinera y hace la mejor paella del mundo. \nTengo un hermano menor, su nombre es Luis. \nLuis tiene cinco años y le encanta jugar con sus cars. \nTambién tengo una abuela, se llama Rosa. \nElla vive con nosotros y siempre nos cuenta historias. \nLos fines de semana, comemos juntos y paseamos por el parque. \n¿Tú tienes hermanos? ¿Cómo se llaman?",
+        "content_en": "Hi, I’m Laura. \nThis is my family. \nMy dad’s name is Carlos. \nHe is tall and works in an office. \nMy mom’s name is Ana. \nShe is a cook and makes the best paella in the world. \nI have a younger brother, his name is Luis. \nLuis is five years old and loves playing with his toy cars. \nI also have a grandmother, her name is Rosa. \nShe lives with us and always tells us stories. \nOn weekends, we eat together and walk in the park. \nDo you have siblings? What are their names?"
+    },
+    {
+        "title": "Un día en la vida de Carlos",
+        "level": "A1.1",
+        "icon": "fa-clock",
+        "leerdoelen": [
+            "Dagelijkse activiteiten beschrijven",
+            "Tijd aangeven (om 7 uur, ’s middags)",
+            "Werkwoorden in de tegenwoordige tijd (me levanto, como, voy)"
+        ],
+        "content": "Me llamo Carlos y esto es mi día típico. \nMe levanto a las siete de la mañana. \nPrimero, me lavo la cara y me visto. \nDesayuno pan con mermelada y un vaso de leche. \nA las ocho, salgo de casa para ir al colegio. \nEn el colegio, tengo clases de matemáticas, español y ciencias. \nAl mediodía, como en la cafetería con mis amigos. \nPor la tarde, hago mis tareas y luego juego al fútbol. \nA las siete, ceno con mi familia. \nAntes de dormir, leo un libro o veo la tele. \n¿Y tú? ¿Cómo es tu día?",
+        "content_en": "My name is Carlos, and this is my typical day. \nI wake up at seven in the morning. \nFirst, I wash my face and get dressed. \nI eat bread with jam and a glass of milk for breakfast. \nAt eight, I leave home to go to school. \nAt school, I have math, Spanish, and science classes. \nAt noon, I eat lunch in the cafeteria with my friends. \nIn the afternoon, I do my homework and then play soccer. \nAt seven, I have dinner with my family. \nBefore bed, I read a book or watch TV. \nAnd you? What’s your day like?"
+    },
+    {
+        "title": "¿Qué día es hoy?",
+        "level": "A1.1",
+        "icon": "fa-calendar",
+        "leerdoelen": [
+            "Dagen van de week",
+            "Activiteiten koppelen aan dagen",
+            "Vragen stellen (¿Qué haces el lunes?)"
+        ],
+        "content": "Hola, soy Ana. \nHoy es lunes y tengo clase de natación. \nMañana es martes y voy al parque con mi hermano. \nEl miércoles tengo clase de piano. \nEl jueves visito a mi abuela. \nEl viernes es mi día favorito porque no hay colegio. \nEl sábado juego con mis amigos en el jardín. \nEl domingo vamos de excursión con mi familia. \n¿Y tú? ¿Qué haces durante la semana?",
+        "content_en": "Hi, I’m Ana. \nToday is Monday and I have swimming class. \nTomorrow is Tuesday and I go to the park with my brother. \nOn Wednesday, I have piano class. \nOn Thursday, I visit my grandmother. \nFriday is my favorite day because there’s no school. \nOn Saturday, I play with my friends in the garden. \nOn Sunday, we go on an outing with my family. \nAnd you? What do you do during the week?"
+    },
+    {
+        "title": "En el restaurante",
+        "level": "A1.1",
+        "icon": "fa-utensils",
+        "leerdoelen": [
+            "Eten en drinken bestellen",
+            "Beleefde zinnen (por favor, gracias)",
+            "Prijzen en hoeveelheden (un café, dos panes)"
+        ],
+        "content": "Buenas tardes. \n¿Podemos sentarnos aquí, por favor? \nSí, claro. \n¿Qué van a tomar? \nPara mí, un café con leche y una tostada. \nY para mí, un zumo de naranja y un bocadillo de jamón. \n¿Algo más? \nNo, gracias. \n¿Cuánto cuesta? \nSon cinco euros con veinte. \nGracias. \nDe nada. Que aprovechen.",
+        "content_en": "Good afternoon. \nCan we sit here, please? \nYes, of course. \nWhat would you like to order? \nFor me, a coffee with milk and a toast. \nAnd for me, an orange juice and a ham sandwich. \nAnything else? \nNo, thank you. \nHow much is it? \nIt’s five euros and twenty cents. \nThank you. \nYou’re welcome. Enjoy your meal."
+    },
+    {
+        "title": "Los meses y el clima",
+        "level": "A1.1",
+        "icon": "fa-sun",
+        "leerdoelen": [
+            "Maanden van het jaar",
+            "Weer en seizoenen beschrijven",
+            "Voorkeuren uiten (me gusta el verano)"
+        ],
+        "content": "Mi mes favorito es julio. \nEn julio hace mucho calor y vamos a la playa. \nEn agosto también hace calor, pero a veces llueve. \nEn septiembre empieza el colegio. \nEn octubre hace fresco y las hojas de los árboles son amarillas. \nEn noviembre y diciembre hace frío y a veces nieva. \nEn enero y febrero también hace frío, pero en febrero es mi cumpleaños. \nEn marzo y abril llueve mucho, pero en mayo hace buen tiempo. \nEn junio empieza el verano. \n¿Cuál es tu mes favorito?",
+        "content_en": "My favorite month is July. \nIn July it’s very hot and we go to the beach. \nIn August it’s also hot, but sometimes it rains. \nIn September, school starts. \nIn October it’s cool and the leaves on the trees are yellow. \nIn November and December it’s cold and sometimes it snows. \nIn January and February it’s also cold, but in February it’s my birthday. \nIn March and April it rains a lot, but in May the weather is nice. \nIn June, summer begins. \nWhat’s your favorite month?"
+    },
+    {
+        "title": "Mi mochila",
+        "level": "A1.1",
+        "icon": "fa-backpack",
+        "leerdoelen": [
+            "Voorwerpen beschrijven (kleuren, grootte)",
+            "Bezittelijke voornaamwoorden (mi, tu)",
+            "Vragen stellen (¿Qué es esto?)"
+        ],
+        "content": "Esta es mi mochila. \nEs azul y grande. \nDentro de mi mochila tengo un cuaderno. \nEl cuaderno es rojo y pequeño. \nTambién tengo un lápiz y una goma. \nEl lápiz es amarillo y la goma es blanca. \nTengo un libro de matemáticas. \nEl libro es verde y pesado. \n¿Qué tienes tú en tu mochila?",
+        "content_en": "This is my backpack. \nIt’s blue and big. \nInside my backpack I have a notebook. \nThe notebook is red and small. \nI also have a pencil and an eraser. \nThe pencil is yellow and the eraser is white. \nI have a math book. \nThe book is green and heavy. \nWhat do you have in your backpack?"
+    },
+    {
+        "title": "El cumpleaños de Abuelo",
+        "level": "A1.1",
+        "icon": "fa-birthday-cake",
+        "leerdoelen": [
+            "Feestjes en tradities",
+            "Familieactiviteiten",
+            "Werkwoorden (comprar, hacer, cantar)"
+        ],
+        "content": "Hoy es el cumpleaños de mi abuelo. \nMi familia y yo preparamos una sorpresa. \nCompramos un regalo: un reloj nuevo. \nMi mamá hace un pastel de chocolate. \nMi hermano decora la sala con globos. \nYo escribo una tarjeta que dice: ‘Feliz cumpleaños, abuelo’. \nCuando llega el abuelo, gritamos: ‘¡Sorpresa!’. \nÉl está muy feliz y nos abraza. \nComemos pastel y cantamos ‘Cumpleaños feliz’. \nEl abuelo abre su regalo y sonríe. \nEs un día muy especial.",
+        "content_en": "Today is my grandfather’s birthday. \nMy family and I prepare a surprise. \nWe buy a gift: a new watch. \nMy mom makes a chocolate cake. \nMy brother decorates the living room with balloons. \nI write a card that says: ‘Happy birthday, grandpa’. \nWhen grandpa arrives, we shout: ‘Surprise!’. \nHe is very happy and hugs us. \nWe eat cake and sing ‘Happy Birthday’. \nGrandpa opens his gift and smiles. \nIt’s a very special day."
+    },
+    {
+        "title": "¿Dónde está mi gato?",
+        "level": "A1.1",
+        "icon": "fa-cat",
+        "leerdoelen": [
+            "Plaatsen in huis (en la cocina, bajo la mesa)",
+            "Vragen naar locaties (¿Dónde está...?)",
+            "Voorzetsels (encima de, debajo de)"
+        ],
+        "content": "No encuentro a mi gato, Misu. \n¿Dónde está? \nMamá, ¿lo has visto? \nNo, pero mira bajo la mesa de la cocina. \nNo está allí. \nPapá, ¿está en el sofá? \nTampoco. \nAbuela, ¿lo has visto en el jardín? \nSí, está encima del árbol. \n¡Misu! Ven aquí. \nEl gato baja del árbol y viene corriendo. \n¡Gracias, abuela!",
+        "content_en": "I can’t find my cat, Misu. \nWhere is he? \nMom, have you seen him? \nNo, but look under the kitchen table. \nHe’s not there. \nDad, is he on the sofa? \nNope. \nGrandma, have you seen him in the garden? \nYes, he’s on top of the tree. \nMisu! Come here. \nThe cat comes down from the tree and runs over. \nThank you, grandma!"
+    },
+    {
+        "title": "La tienda de ropa",
+        "level": "A1.1",
+        "icon": "fa-tshirt",
+        "leerdoelen": [
+            "Kleding beschrijven (kleuren, maten)",
+            "Winkeldialogen (¿Cuánto cuesta? ¿Tiene rojo?)",
+            "Getallen (prijzen, maten)"
+        ],
+        "content": "Hola, ¿puedo ayudarte? \nSí, busco una camiseta roja. \nTenemos esta, es tamaño mediano. \n¿Cuánto cuesta? \nCuesta quince euros. \n¿Tiene una más grande? \nSí, aquí está. \n¿Puedo probarla? \nClaro, los probadores están allí. \nMe queda bien. \nLa compro. \nGracias. \nDe nada.",
+        "content_en": "Hello, can I help you? \nYes, I’m looking for a red T-shirt. \nWe have this one, it’s medium size. \nHow much does it cost? \nIt’s fifteen euros. \nDo you have a larger one? \nYes, here it is. \nCan I try it on? \nOf course, the fitting rooms are over there. \nIt fits well. \nI’ll take it. \nThank you. \nYou’re welcome."
+    },
+    {
+        "title": "Un paseo por el parque",
+        "level": "A1.1",
+        "icon": "fa-tree",
+        "leerdoelen": [
+            "Natuur en omgeving beschrijven",
+            "Werkwoorden voor activiteiten (correr, jugar, volar)",
+            "Meervoudsvormen (los árboles, las flores)"
+        ],
+        "content": "Hoy voy al parque con mi hermano. \nVemos muchos árboles verdes y flores rojas. \nHay niños jugando con una pelota. \nUn perro corre detrás de un pájaro. \nEl pájaro vuela alto en el cielo. \nNos sentamos en un banco bajo un árbol. \nComemos un sándwich y bebemos agua. \nEscuchamos el canto de los pájaros. \nEs un día muy tranquilo y bonito.",
+        "content_en": "Today I’m going to the park with my brother. \nWe see many green trees and red flowers. \nThere are children playing with a ball. \nA dog runs after a bird. \nThe bird flies high in the sky. \nWe sit on a bench under a tree. \nWe eat a sandwich and drink water. \nWe listen to the birds singing. \nIt’s a very peaceful and beautiful day."
+    },
+    {
+        "title": "La merienda",
+        "level": "A1.1",
+        "icon": "fa-cookie",
+        "leerdoelen": [
+            "Eten en drinken beschrijven",
+            "Smaakvoorkeuren (me gusta/no me gusta)",
+            "Eenvoudige gesprekken (¿Qué te gusta más?)"
+        ],
+        "content": "Hola, ¿qué quieres merendar? \nYo quiero un yogur y una manzana. \nYo prefiero un sándwich de queso. \n¿Y tú, María? \nYo no tengo hambre, pero quiero un zumo. \n¿De qué sabor? \nDe naranja, por favor. \nAquí tienes. \nGracias. \n¿Sabes qué? A mí no me gusta el zumo de naranja. \nPues a mí sí. ¡Está delicioso!",
+        "content_en": "Hi, what do you want for snack? \nI want a yogurt and an apple. \nI prefer a cheese sandwich. \nAnd you, María? \nI’m not hungry, but I want a juice. \nWhat flavor? \nOrange, please. \nHere you go. \nThank you. \nYou know what? I don’t like orange juice. \nWell, I do. It’s delicious!"
+    },
+    {
+        "title": "El nuevo vecino",
+        "level": "A1.1",
+        "icon": "fa-user-friends",
+        "leerdoelen": [
+            "Jezelf en anderen voorstellen",
+            "Nationaliteiten en woonplaatsen",
+            "Vragen stellen (¿De dónde eres? ¿Dónde vives?)"
+        ],
+        "content": "¡Hola! Soy tu nuevo vecino. \nMe llamo Antonio. \nEncantado. \nYo soy Luca. ¿De dónde eres? \nSoy de Italia, pero ahora vivo aquí. \n¿Y tú? \nYo soy de España. Vivo en el segundo piso. \n¿Tienes familia? \nSí, tengo una esposa y dos hijos. \n¡Qué bien! Si necesitas algo, avísame. \nGracias, Luca. ¡Hasta pronto!",
+        "content_en": "Hello! I’m your new neighbor. \nMy name is Antonio. \nNice to meet you. \nI’m Luca. Where are you from? \nI’m from Italy, but now I live here. \nAnd you? \nI’m from Spain. I live on the second floor. \nDo you have family? \nYes, I have a wife and two children. \nHow nice! If you need anything, let me know. \nThank you, Luca. See you soon!"
+    },
+    {
+        "title": "El horario de clases",
+        "level": "A1.1",
+        "icon": "fa-calendar-alt",
+        "leerdoelen": [
+            "Dagen van de week herhalen",
+            "Schoolvakken benoemen",
+            "Tijd aangeven (a las 9, por la tarde)"
+        ],
+        "content": "Mi horario de clases es muy organizado. \nEl lunes tengo matemáticas a las nueve. \nEl martes tengo español y ciencias a las once. \nEl miércoles tengo educación física por la tarde. \nEl jueves tengo arte y música. \nEl viernes solo tengo historia por la mañana. \nLos sábados no hay clases, pero estudio en casa. \nLos domingos descanso y juego con mis amigos. \n¿Te gusta tu horario de clases?",
+        "content_en": "My class schedule is very organized. \nOn Monday I have math at nine. \nOn Tuesday I have Spanish and science at eleven. \nOn Wednesday I have physical education in the afternoon. \nOn Thursday I have art and music. \nOn Friday I only have history in the morning. \nOn Saturdays there are no classes, but I study at home. \nOn Sundays I rest and play with my friends. \nDo you like your class schedule?"
+    },
+    {
+        "title": "La visita al médico",
+        "level": "A1.1",
+        "icon": "fa-user-md",
+        "leerdoelen": [
+            "Lichaamsdelen benoemen",
+            "Klachten beschrijven (me duele la cabeza)",
+            "Advies vragen en geven"
+        ],
+        "content": "Buenos días, doctor. \nBuenos días. ¿Qué te pasa? \nMe duele la cabeza y tengo tos. \n¿Desde cuándo? \nDesde ayer por la tarde. \nAbre la boca, por favor. \nAaaah. \nTienes un poco de fiebre. \n¿Qué debo hacer? \nToma este jarabe y descansa en casa. \nBebe mucho agua. \nGracias, doctor. \nDe nada. Mejórate pronto.",
+        "content_en": "Good morning, doctor. \nGood morning. What’s wrong? \nI have a headache and a cough. \nSince when? \nSince yesterday afternoon. \nOpen your mouth, please. \nAaaah. \nYou have a slight fever. \nWhat should I do? \nTake this syrup and rest at home. \nDrink plenty of water. \nThank you, doctor. \nYou’re welcome. Get well soon."
+    },
+    {
+        "title": "El fin de semana",
+        "level": "A1.1",
+        "icon": "fa-calendar-week",
+        "leerdoelen": [
+            "Plannen maken (voy a...)",
+            "Vrije-tijdsactiviteiten",
+            "Toekomstige tijd (voy a ir, voy a comer)"
+        ],
+        "content": "¿Qué vas a hacer este fin de semana? \nEl sábado voy a ir al cine con mis amigos. \n¿Qué película vas a ver? \nVamos a ver una película de acción. \nYo el sábado voy a estudiar para el examen. \nEl domingo voy a visitar a mis abuelos. \n¿Y qué vas a hacer el domingo por la tarde? \nVoy a jugar al fútbol en el parque. \n¡Qué bien! Yo voy a quedarme en casa y leer un libro. \nTodos tenemos planes interesantes.",
+        "content_en": "What are you going to do this weekend? \nOn Saturday I’m going to the movies with my friends. \nWhat movie are you going to see? \nWe’re going to see an action movie. \nI’m going to study for the exam on Saturday. \nOn Sunday I’m going to visit my grandparents. \nAnd what are you going to do on Sunday afternoon? \nI’m going to play soccer in the park. \nHow nice! I’m going to stay home and read a book. \nWe all have interesting plans."
+    },
+    {
+        "title": "La receta de abuela",
+        "level": "A1.1",
+        "icon": "fa-book-open",
+        "leerdoelen": [
+            "Kookinstructies begrijpen",
+            "Werkwoorden voor instructies (corta, mezcla, fríe)",
+            "Keukenvoorwerpen"
+        ],
+        "content": "Abuela, ¿me enseñas a hacer tortilla? \nClaro, hijo. Primero, pelamos cuatro patatas. \nLuego, las cortamos en rodajas finas. \nPonemos aceite en la sartén y freímos las patatas. \nMientras, batimos seis huevos en un bol. \nAñadimos las patatas a los huevos y mezclamos. \nPonemos la mezcla en la sartén y cocinamos a fuego lento. \nCuando esté dorada, le damos la vuelta. \n¡Listo! La tortilla está deliciosa.",
+        "content_en": "Grandma, will you teach me how to make an omelette? \nOf course, dear. First, we peel four potatoes. \nThen, we cut them into thin slices. \nWe put oil in the pan and fry the potatoes. \nMeanwhile, we beat six eggs in a bowl. \nWe add the potatoes to the eggs and mix. \nWe put the mixture in the pan and cook on low heat. \nWhen it’s golden, we flip it. \nReady! The omelette is delicious."
+    },
+    {
+        "title": "El viaje en tren",
+        "level": "A1.1",
+        "icon": "fa-train",
+        "leerdoelen": [
+            "Vervoermiddelen",
+            "Tijdsduur (una hora, media hora)",
+            "Landschappen beschrijven"
+        ],
+        "content": "Hoy viajamos en tren a la ciudad. \nEl tren sale a las diez de la mañana. \nMi asiento está junto a la ventana. \nVeo montañas, ríos y pueblos pequeños. \nEl viaje dura dos horas. \nMi hermano lee un libro y yo escucho música. \nDe repente, el tren pasa por un túnel oscuro. \n¡Qué emocionante! \nCuando llegamos, buscamos un restaurante para comer. \nEs un día muy divertido.",
+        "content_en": "Today we’re traveling by train to the city. \nThe train leaves at ten in the morning. \nMy seat is by the window. \nI see mountains, rivers, and small towns. \nThe trip lasts two hours. \nMy brother reads a book and I listen to music. \nSuddenly, the train goes through a dark tunnel. \nHow exciting! \nWhen we arrive, we look for a restaurant to eat. \nIt’s a very fun day."
+    },
+    {
+        "title": "La fiesta de cumpleaños",
+        "level": "A1.1",
+        "icon": "fa-gift",
+        "leerdoelen": [
+            "Uitnodigingen en plannen",
+            "Feestactiviteiten",
+            "Werkwoorden (jugar, comer, bailar)"
+        ],
+        "content": "Hoy es mi cumpleaños y tengo una fiesta. \nInvité a todos mis amigos de la escuela. \nMi mamá preparó un pastel de chocolate. \nMi papá decoró la casa con globos y luces. \nMis amigos llegaron a las cuatro de la tarde. \nJugamos a muchos juegos y bailamos. \nComimos pizza, pastel y helado. \nTodos cantaron ‘Cumpleaños feliz’ para mí. \nAbrí mis regalos y recibí muchos juguetes. \nFue el mejor cumpleaños de mi vida.",
+        "content_en": "Today is my birthday and I’m having a party. \nI invited all my friends from school. \nMy mom made a chocolate cake. \nMy dad decorated the house with balloons and lights. \nMy friends arrived at four in the afternoon. \nWe played many games and danced. \nWe ate pizza, cake, and ice cream. \nEveryone sang ‘Happy Birthday’ to me. \nI opened my gifts and received many toys. \nIt was the best birthday of my life."
+    },
+    {
+        "title": "El día de la compra",
+        "level": "A1.1",
+        "icon": "fa-shopping-cart",
+        "leerdoelen": [
+            "Boodschappenlijstjes",
+            "Hoeveelheden (un kilo de, una botella de)",
+            "Prijzen vragen en betalen"
+        ],
+        "content": "Hoy vamos de compras al supermercado. \nMamá lleva una lista: pan, leche, huevos y fruta. \nYo empujo el carrito y papá elige las verduras. \n¿Cuántos tomates necesitamos? \nCinco tomates rojos, por favor. \nEn la sección de fruta, compramos manzanas y plátanos. \n¿Cuánto cuesta un kilo de manzanas? \nCuesta dos euros. \nEn la caja, pagamos con tarjeta. \nLlevamos las bolsas a casa y guardamos todo. \n¡Listo para la semana!",
+        "content_en": "Today we’re going grocery shopping at the supermarket. \nMom has a list: bread, milk, eggs, and fruit. \nI push the cart and dad picks the vegetables. \nHow many tomatoes do we need? \nFive red tomatoes, please. \nIn the fruit section, we buy apples and bananas. \nHow much does a kilo of apples cost? \nIt’s two euros. \nAt the checkout, we pay with a card. \nWe take the bags home and put everything away. \nReady for the week!"
+    }
+]
