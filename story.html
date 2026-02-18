@@ -8,34 +8,77 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- Your navigation, search/filter, and story cards here -->
     <nav>
         <ul>
-            <li><a href="index.html">Volver a Inicio</a></li>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="historias.html">Historias</a></li>
+            <li><a href="#">Contacto</a></li>
         </ul>
     </nav>
 
-    <div class="story-content">
-        <!-- Story content will be loaded here -->
+
+    <div class="story-wrapper">
+        <div class="story-content">
+            <!-- Story content will be loaded here -->
+        </div>
+        
+        <button id="toggle-en" class="toggle-btn">
+            Show English
+        </button>
     </div>
 
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Retrieve the selected story from localStorage
-            const selectedStory = JSON.parse(localStorage.getItem('selectedStory'));
+    document.addEventListener('DOMContentLoaded', function() {
+        const selectedStory = JSON.parse(localStorage.getItem('selectedStory'));
 
-            if (selectedStory) {
-                const storyContent = document.querySelector('.story-content');
-                storyContent.innerHTML = `
-                    <h1>${selectedStory.title}</h1>
-                    <p><strong>Nivel:</strong> ${selectedStory.level}</p>
+        if (!selectedStory) {
+            document.querySelector('.story-content').innerHTML =
+                '<p>No se encontró la historia.</p>';
+            return;
+        }
+
+        let showEnglish = false; // toggle state
+        const storyContent = document.querySelector('.story-content');
+        const toggleBtn = document.getElementById('toggle-en');
+
+        function renderStory() {
+            storyContent.innerHTML = `
+                <h1>${selectedStory.title}</h1>
+                <p><strong>Nivel:</strong> ${selectedStory.level}</p>
+            `;
+
+            selectedStory.content.forEach((line, index) => {
+                storyContent.innerHTML += `
                     <div class="story-text">
-                        ${selectedStory.content}
+                        ${line}
                     </div>
                 `;
-            } else {
-                document.querySelector('.story-content').innerHTML = '<p>No se encontró la historia.</p>';
-            }
+
+                if (showEnglish && selectedStory.content_en?.[index]) {
+                    storyContent.innerHTML += `
+                        <div class="story-text_en">
+                            ${selectedStory.content_en[index]}
+                        </div>
+                    `;
+                }
+            });
+
+            toggleBtn.textContent = showEnglish ? 'Hide English' : 'Show English';
+        }
+
+        toggleBtn.addEventListener('click', () => {
+            showEnglish = !showEnglish;
+            renderStory();
         });
+
+        renderStory(); // initial render
+    });
     </script>
+
+
+
 </body>
 </html>
+
+
